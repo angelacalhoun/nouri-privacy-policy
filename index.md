@@ -31,7 +31,15 @@ Nouri is not intended for users under 13. If we learn a user is under 13, we wil
 5. Changes to This Policy
 We may update this policy as the app evolves. Major changes will be communicated within the app or via email.
 
-6. Contact Us
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
+
+7. Contact Us
 Questions or concerns? We're here for you. Reach out at: hello@nouri.care
 
 Reminder: Nouri is NOT a substitute for professional care. It does not provide therapy, diagnosis, or medical advice. If you're in crisis or need support, please reach out to a qualified provider.
