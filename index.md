@@ -1,6 +1,7 @@
 **Privacy Policy for nouri**
 
 Effective Date: 8/3/25
+
 Nouri is a self-reflection and support tool designed to help users gently explore their relationship with food and self-image. We take your privacy seriously, and this policy outlines how we collect, use, store, and protect your information.
 
 **1. Information We Collect:**
