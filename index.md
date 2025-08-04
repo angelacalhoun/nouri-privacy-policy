@@ -31,14 +31,6 @@ Nouri is not intended for users under 13. If we learn a user is under 13, we wil
 5. Changes to This Policy
 We may update this policy as the app evolves. Major changes will be communicated within the app or via email.
 
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
-
 7. Contact Us
 Questions or concerns? We're here for you. Reach out at: hello@nouri.care
 
