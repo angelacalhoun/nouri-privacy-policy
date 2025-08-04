@@ -21,10 +21,15 @@ We do not collect sensitive health information as defined by HIPAA.
 **2. How We Use Your Information:**
 
 We use your information to:
+
 Authenticate and manage your account
+
 Display your entries and progress over time
+
 Personalize the app experience (e.g., journaling prompts or affirmations)
+
 Improve Nouri through aggregated, anonymous usage insights
+
 Communicate occasional updates (opt-in only)
 
 **3. Data Storage and Security:**
