@@ -9,8 +9,11 @@ Nouri is a self-reflection and support tool designed to help users gently explor
 When you use Nouri, we may collect the following information:
 
 **Email address:** Collected at sign-up to create and authenticate your account.
+
 **Onboarding responses:** Optional answers to setup questions that personalize your experience.
+
 **Journals & meal logs:** Content you write or log in-app to support your journey.
+
 **Usage data:** Non-identifiable data like device type, page views, or feature usage (used to improve the app).
 
 We do not collect sensitive health information as defined by HIPAA.
