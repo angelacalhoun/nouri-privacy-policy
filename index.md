@@ -1,4 +1,4 @@
-**Privacy Policy for nouri**
+**Privacy Policy for Nouri**
 
 **Effective Date:** 8/3/25
 
