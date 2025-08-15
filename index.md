@@ -48,7 +48,7 @@ Nouri is not intended for users under 13. If we learn a user is under 13, we wil
 
 We may update this policy as the app evolves. Major changes will be communicated within the app or via email.
 
-**7. Contact Us:**
+**6. Contact Us:**
 
 Questions or concerns? We're here for you. **Reach out at: hello@nouri.care**
 
