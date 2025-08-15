@@ -46,10 +46,7 @@ Any such access is limited to authorized personnel and is logged for accountabil
 
 **3. Data Storage and Security:**
 
-Your data is securely stored using Supabase, a privacy-conscious backend platform.
-Entries are encrypted in transit and at rest. Access is limited to you and authorized Nouri personnel as described above, and may be required by law.Access is restricted to only you unless required by law.
-We do not sell or share your personal data with third parties.
-You may delete your journal or meal entries, or your entire account, at any time through Settings.
+Your data is securely stored using Supabase, a privacy-conscious backend platform. Entries are encrypted in transit and at rest. Access is limited to you and authorized Nouri personnel as described above, and may also be required by law in certain cases. We do not sell or share your personal data with third parties. You may delete your journal or meal entries, or your entire account, at any time through Settings.
 
 **4. Not a HIPAA-Covered Entity**
 
