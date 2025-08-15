@@ -32,6 +32,18 @@ Improve Nouri through aggregated, anonymous usage insights
 
 Communicate occasional updates (opt-in only)
 
+**Administrative Access:**
+
+Authorized Nouri team members have the technical ability to view your journal entries, meal logs, and chat conversations stored in our database. This access is not used to routinely read your entries, but may occur in the following limited situations:
+
+To resolve a technical issue you report.
+
+To investigate potential abuse or violation of our Terms of Service.
+
+To improve features or troubleshoot performance issues.
+
+Any such access is limited to authorized personnel and is logged for accountability. We do not sell or share your personal data with third parties.
+
 **3. Data Storage and Security:**
 
 Your data is securely stored using Supabase, a privacy-conscious backend platform.
@@ -40,15 +52,19 @@ Access is restricted to only you unless required by law
 We do not sell or share your personal data with third parties
 You may delete your journal or meal entries, or your entire account, at any time through Settings.
 
-**4. Children:**
+**4. Not a HIPAA-Covered Entity**
+
+Nouri is not a medical provider and is not a “covered entity” under the Health Insurance Portability and Accountability Act (HIPAA). While we take significant measures to protect your privacy, HIPAA regulations do not apply to information you enter into the app. If you are receiving services from a healthcare provider, please do not assume that entries made in Nouri are part of your medical record.
+
+**5. Children:**
 
 Nouri is not intended for users under 13. If we learn a user is under 13, we will delete their account and associated data immediately.
 
-**5. Changes to This Policy:**
+**6. Changes to This Policy:**
 
 We may update this policy as the app evolves. Major changes will be communicated within the app or via email.
 
-**6. Contact Us:**
+**7. Contact Us:**
 
 Questions or concerns? We're here for you. **Reach out at: hello@nouri.care**
 
