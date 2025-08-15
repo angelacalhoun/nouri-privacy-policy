@@ -34,7 +34,7 @@ Communicate occasional updates (opt-in only)
 
 **Administrative Access:**
 
-Authorized Nouri team members have the technical ability to view your journal entries, meal logs, and chat conversations stored in our database. This access is not used to routinely read your entries, but may occur in the following limited situations:
+Authorized Nouri team members have the technical ability to view your journal entries and meal logs stored in our database. This access is not used to routinely read your entries, but may occur in the following limited situations:
 
 To resolve a technical issue you report.
 
